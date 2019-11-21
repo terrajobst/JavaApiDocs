@@ -5,6 +5,7 @@
       "build_source_folder": ".",
       "build_output_subfolder": "SignalR_Java",
       "locale": "en-us",
+      "monikers": [],
       "moniker_ranges": ["aspnet-signalr-java"],
       "open_to_public_contributors": true,
       "type_mapping": {
@@ -45,7 +46,7 @@
     {
       "path_to_root": "_themes",
       "url": "https://github.com/Microsoft/templates.docs.msft",
-      "branch": "master-test-only",
+      "branch": "master",
       "branch_mapping": {}
     }
   ],
@@ -69,4 +70,3 @@
     }
   ]
 }
-
