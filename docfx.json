@@ -85,6 +85,8 @@
     },
     "fileMetadata": {},
     "template": [],
-    "dest": "_site"
+    "dest": "_site",
+    "exportRawModel": true,
+		"exportViewModel": true
   }
 }
